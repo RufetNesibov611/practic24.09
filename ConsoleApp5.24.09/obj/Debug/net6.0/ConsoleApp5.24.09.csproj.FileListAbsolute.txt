@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\ConsoleApp5.24.09\ConsoleApp5.24.09\bin\Debug\net6.0\ConsoleApp5.24.09.exe
+C:\Users\hp\source\repos\ConsoleApp5.24.09\ConsoleApp5.24.09\bin\Debug\net6.0\ConsoleApp5.24.09.deps.json
+C:\Users\hp\source\repos\ConsoleApp5.24.09\ConsoleApp5.24.09\bin\Debug\net6.0\ConsoleApp5.24.09.runtimeconfig.json
+C:\Users\hp\source\repos\ConsoleApp5.24.09\ConsoleApp5.24.09\bin\Debug\net6.0\ConsoleApp5.24.09.dll
+C:\Users\hp\source\repos\ConsoleApp5.24.09\ConsoleApp5.24.09\bin\Debug\net6.0\ConsoleApp5.24.09.pdb
+C:\Users\hp\source\repos\ConsoleApp5.24.09\ConsoleApp5.24.09\obj\Debug\net6.0\ConsoleApp5.24.09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\ConsoleApp5.24.09\ConsoleApp5.24.09\obj\Debug\net6.0\ConsoleApp5.24.09.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ConsoleApp5.24.09\ConsoleApp5.24.09\obj\Debug\net6.0\ConsoleApp5.24.09.AssemblyInfo.cs
+C:\Users\hp\source\repos\ConsoleApp5.24.09\ConsoleApp5.24.09\obj\Debug\net6.0\ConsoleApp5.24.09.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ConsoleApp5.24.09\ConsoleApp5.24.09\obj\Debug\net6.0\ConsoleApp5.24.09.dll
+C:\Users\hp\source\repos\ConsoleApp5.24.09\ConsoleApp5.24.09\obj\Debug\net6.0\refint\ConsoleApp5.24.09.dll
+C:\Users\hp\source\repos\ConsoleApp5.24.09\ConsoleApp5.24.09\obj\Debug\net6.0\ConsoleApp5.24.09.pdb
+C:\Users\hp\source\repos\ConsoleApp5.24.09\ConsoleApp5.24.09\obj\Debug\net6.0\ConsoleApp5.24.09.genruntimeconfig.cache
+C:\Users\hp\source\repos\ConsoleApp5.24.09\ConsoleApp5.24.09\obj\Debug\net6.0\ref\ConsoleApp5.24.09.dll
