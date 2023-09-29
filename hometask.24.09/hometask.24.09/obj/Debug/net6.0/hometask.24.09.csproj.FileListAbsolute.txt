@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\hometask.24.09\hometask.24.09\obj\Debug\net6.0\hometask.24.09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\hometask.24.09\hometask.24.09\obj\Debug\net6.0\hometask.24.09.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\hometask.24.09\hometask.24.09\obj\Debug\net6.0\hometask.24.09.AssemblyInfo.cs
+C:\Users\hp\source\repos\hometask.24.09\hometask.24.09\obj\Debug\net6.0\hometask.24.09.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\hometask.24.09\hometask.24.09\bin\Debug\net6.0\hometask.24.09.exe
+C:\Users\hp\source\repos\hometask.24.09\hometask.24.09\bin\Debug\net6.0\hometask.24.09.deps.json
+C:\Users\hp\source\repos\hometask.24.09\hometask.24.09\bin\Debug\net6.0\hometask.24.09.runtimeconfig.json
+C:\Users\hp\source\repos\hometask.24.09\hometask.24.09\bin\Debug\net6.0\hometask.24.09.dll
+C:\Users\hp\source\repos\hometask.24.09\hometask.24.09\bin\Debug\net6.0\hometask.24.09.pdb
+C:\Users\hp\source\repos\hometask.24.09\hometask.24.09\obj\Debug\net6.0\hometask.24.09.dll
+C:\Users\hp\source\repos\hometask.24.09\hometask.24.09\obj\Debug\net6.0\refint\hometask.24.09.dll
+C:\Users\hp\source\repos\hometask.24.09\hometask.24.09\obj\Debug\net6.0\hometask.24.09.pdb
+C:\Users\hp\source\repos\hometask.24.09\hometask.24.09\obj\Debug\net6.0\hometask.24.09.genruntimeconfig.cache
+C:\Users\hp\source\repos\hometask.24.09\hometask.24.09\obj\Debug\net6.0\ref\hometask.24.09.dll
